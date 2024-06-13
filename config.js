@@ -1,1 +1,339 @@
-const _0x158c06=_0x32a5;(function(_0x1eb655,_0x2fcaeb){const _0x3b267d=_0x32a5,_0x2faf68=_0x1eb655();while(!![]){try{const _0x308db9=parseInt(_0x3b267d(0x1c4))/0x1*(parseInt(_0x3b267d(0x14f))/0x2)+parseInt(_0x3b267d(0x18c))/0x3*(-parseInt(_0x3b267d(0x1b5))/0x4)+-parseInt(_0x3b267d(0x1b3))/0x5*(parseInt(_0x3b267d(0x1b1))/0x6)+-parseInt(_0x3b267d(0x185))/0x7*(-parseInt(_0x3b267d(0x127))/0x8)+parseInt(_0x3b267d(0x1a1))/0x9+-parseInt(_0x3b267d(0x1dc))/0xa+-parseInt(_0x3b267d(0x130))/0xb*(-parseInt(_0x3b267d(0x1c6))/0xc);if(_0x308db9===_0x2fcaeb)break;else _0x2faf68['push'](_0x2faf68['shift']());}catch(_0x2abab4){_0x2faf68['push'](_0x2faf68['shift']());}}}(_0x1bb8,0x3ffeb));import{watchFile,unwatchFile}from'fs';import _0x1eb8b4 from'chalk';import{fileURLToPath}from'url';import _0x1cb32c from'fs';import _0x1cfb69 from'dotenv';_0x1cfb69[_0x158c06(0x137)]();const ownervb=process[_0x158c06(0x174)][_0x158c06(0x144)];0xd55c851940;if(!ownervb)throw new Error(_0x158c06(0x19a));const ownerlist=ownervb[_0x158c06(0x14e)](';');global['owner']=[];for(let i=0x0;i<ownerlist[_0x158c06(0x1c7)];i+=0x2){const owner=[ownerlist[i],ownerlist[i+0x1],!![]];global['owner']['push'](owner);}function _0x32a5(_0x547af7,_0x22b075){const _0x1bb824=_0x1bb8();return _0x32a5=function(_0x32a567,_0x1c7875){_0x32a567=_0x32a567-0x120;let _0x2fdea2=_0x1bb824[_0x32a567];return _0x2fdea2;},_0x32a5(_0x547af7,_0x22b075);}function _0x1bb8(){const _0xe256c1=['https://i.pinimg.com/originals/94/38/6d/94386d3c23f509dbc30341fed0363a07.jpg','rwait','5VC9rvNx','botname','https://i.pinimg.com/originals/89/ee/ab/89eeabd90e54b2951459f81f51e2c791.jpg','https://apimu.my.id','3718583eIyDPC','https://i.pinimg.com/originals/1d/08/cb/1d08cbb9d42812984bed54e8291edaec.jpg','keysxxx','https://i.pinimg.com/originals/db/cf/dc/dbcfdc263095906eabf7e06099ebaef0.png','https://i.pinimg.com/originals/39/2c/cb/392ccb1793c5a23783869994b1ec24b7.jpg','https://i.pinimg.com/originals/41/10/c6/4110c64fc91a1c85de02166f67aff7ad.jpg','https://i.pinimg.com/originals/fc/51/4e/fc514e2f4c23eb96721611b483edc28c.jpg','config','AUTHOR','https://i.pinimg.com/originals/77/0d/23/770d235d3f6dcd021bda5efdf53cca36.png','wait','https://i.pinimg.com/originals/af/f1/1b/aff11bcfdf946a7bba1687c80515f902.jpg','https://i.pinimg.com/originals/71/18/96/711896c067c28814ec9ec9c25d4a3ba9.jpg','DYGP','https://i.pinimg.com/originals/9b/36/24/9b36241f4a3b782c05eadb0805ef0dda.png','application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','fg-dylux','https://i.pinimg.com/originals/f3/5d/ce/f35dce5f6742bd4f30033fe7b51335cc.jpg','igfg','thumbdoc','OWNERS','./Assets/Alexa.png','https://i.pinimg.com/originals/0f/ed/3f/0fed3f4c456158c506d88f5867ca93d2.jpg','https://i.pinimg.com/originals/63/6b/7b/636b7bd0e1df03f0bf72c494cedd6f07.png','https://i.pinimg.com/originals/1b/7a/a8/1b7aa80191b83b888e9ea6042f090763.jpg','https://i.pinimg.com/originals/88/46/88/884688def830c43648f88154836a8b05.jpg','https://i.pinimg.com/originals/f9/8d/2c/f98d2c3f64e50ba6c8efd9fdc7cf0093.png','https://i.pinimg.com/originals/60/ac/9e/60ac9edf63fcb43e3f00555cb71ae6f2.jpg','https://i.pinimg.com/originals/ed/3c/e2/ed3ce276ca71e5bfec1cf2fbfc5561e1.jpg','https://i.pinimg.com/originals/31/07/53/310753699042b254fdfa0472a2675158.jpg','split','450tQrlNI','https://i.pinimg.com/originals/a4/a1/74/a4a1740e565f4205eb3f700e1936e064.jpg','APIs','alexaimg','https://i.pinimg.com/originals/c1/4e/c7/c14ec7dffbc682f78c52ad8a295b8831.jpg','https://i.pinimg.com/originals/83/5a/2e/835a2e582d1f803f03ab3a3c3e58b694.jpg','MENUVID','https://i.pinimg.com/originals/bc/9b/81/bc9b81c63b4844fd1a434d462bdfbd80.png','fgpyp','https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg','https://i.pinimg.com/originals/7a/3b/e6/7a3be6cf1595fe6764b5b18b46ca576d.jpg','https://i.pinimg.com/originals/66/30/37/663037f00539f3bc1dbd3efeae0d700b.jpg','thumb','https://i.pinimg.com/originals/93/0a/5f/930a5fc6f8f6e64e87ac2cc30b8430ac.jpg','Please\x20Wait','https://i.pinimg.com/originals/e7/00/0e/e7000e7e72c1b37ea7a4c780182d05d8.jpg','alexamedia','https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg','kurrxd09','fglog','29d4b59a4aa687ca','https://i.pinimg.com/originals/c5/42/f8/c542f83b992e51c6d2519f07489b1dec.jpg','https://i.pinimg.com/originals/89/14/0d/89140d3ef976904013f672fea0157b7e.png','https://i.pinimg.com/originals/35/04/d5/3504d53c5850b3bddaa6e0e0714ccacb.jpg','https://i.pinimg.com/originals/86/93/75/8693757390b9d5b83fb8e40ff9ea876f.jpg','https://i.pinimg.com/originals/7f/f5/46/7ff546b38e2969e578e697c44944b74f.jpg','IGFG','https://i.pinimg.com/originals/7a/08/c8/7a08c8c22066a142f22928662d9d70aa.jpg','https://i.pinimg.com/originals/d0/cb/da/d0cbdaa334fa92f8b09d1c4d1ddc9cd2.jpg','GataDios','916380260672','https://i.pinimg.com/originals/3b/2c/02/3b2c020665f835b0dfdd74b8cc9ca22d.jpg','https://i.pinimg.com/originals/42/88/f1/4288f17ee25b909430fb7e707d961d0b.jpg','https://i.pinimg.com/originals/51/0f/8c/510f8cb8f28b8666d560f89e2006d4b1.jpg','5bd33b276d41d6b4','https://i.pinimg.com/originals/db/a4/13/dba413518c0a470a5e81cafa431281da.jpg','https://i.pinimg.com/originals/d5/65/43/d56543a959da518e08012b4db93747bb.jpg','env','https://i.pinimg.com/originals/68/af/17/68af1781a9120a59629d0f774555185f.jpg','https://i.pinimg.com/originals/3b/d9/aa/3bd9aa880d23dc3262e119ca09345e99.jpg','https://i.pinimg.com/originals/e0/74/f8/e074f8dc647066a9f112533c789c0e42.png','https://i.pinimg.com/originals/6f/9a/86/6f9a86eb31e7c5bc34cf0d1d130574e0.png','https://i.pinimg.com/originals/80/bc/96/80bc968b4dcd939b60ffe2c8b0c54d75.png','FGYT','true','log','https://i.pinimg.com/originals/c6/16/d9/c616d9a871ed3cd9fb6a46efb7f92d95.jpg','PACKNAME','https://i.pinimg.com/originals/25/5d/d9/255dd9dde5f44673092a4f15e917759f.jpg','https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg','https://i.pinimg.com/originals/8d/04/9a/8d049a1e6951491b24ea4c364f2459bc.jpg','https://i.pinimg.com/originals/23/b7/fb/23b7fb922770e139a2a57b1a443a2180.jpg','https://i.pinimg.com/originals/ac/f0/29/acf029047efffe57999fa876554cbf1d.jpg','https://i.pinimg.com/originals/57/0e/9b/570e9b1288f1189a22b39c8e24ec957f.jpg','1946RfHZwK','https://i.pinimg.com/originals/09/5b/4d/095b4d0ce48f40eca7ad23e43e85ab9a.jpg','https://i.pinimg.com/originals/f3/b7/37/f3b7376c2a574b8619c197bce72d1f63.png','keysZens','https://i.pinimg.com/originals/d5/58/a7/d558a745f2452d851d480025ab341537.jpg','https://i.pinimg.com/originals/aa/6b/df/aa6bdf98cbc9e1fc741c36682fa3e838.jpg','premium','57213pCvSHk','xmoji','dmoji','https://i.pinimg.com/originals/c2/4f/75/c24f7518e17faba4bf8908a39be604a6.jpg','https://i.pinimg.com/originals/22/dc/94/22dc941e60b0ace15d796a94f07d8ba7.jpg','https://i.pinimg.com/originals/bb/a4/98/bba49848bc4369333f4128b62fc64258.jpg','https://i.pinimg.com/originals/87/cf/bc/87cfbc189e773ed9294bccfd50a4fbc7.jpg','d90a9e986e18778b','https://i.pinimg.com/originals/ab/f9/50/abf950c9aa1c4710437d9acc83078f87.jpg','https://i.pinimg.com/originals/6b/87/9c/6b879cc29b5df23941dab4f4aafabcbd.jpg','Error\x20Please\x20Report\x20To\x20TurboMods','https://i.pinimg.com/originals/ae/86/3b/ae863b64ca579f05008dbf027b04988f.jpg','https://i.pinimg.com/originals/79/92/ed/7992ed0c9b272654938ea186cc2e3f4a.jpg','5LTV57azwaid7dXfz5fzJu','Please\x20Check\x20Your\x20Owner\x20Env','multiplier','https://i.pinimg.com/originals/1f/9c/1d/1f9c1d5f4d2de0b74e81f190ab4f1792.jpg','https://i.pinimg.com/originals/08/8f/1d/088f1dc58092b60652e05cc941ee0fbd.jpg','https://i.pinimg.com/originals/52/90/0b/52900bab0f969d9d68207f6ad8510882.jpg','https://i.pinimg.com/originals/e5/1a/8d/e51a8d35d2b717fa757fa2abf053a2c7.jpg','https://api.lolhuman.xyz','2455263dFVmzV','https://i.pinimg.com/originals/16/92/89/1692897136ac3688ab9ccdbb0e54fb21.jpg','Done\x20\x1a','37CC845916','fgsc','c2459db922','https://i.pinimg.com/originals/cc/17/be/cc17be94cd520baa4722e0ca2329c2e9.jpg','999','fgyt','https://i.pinimg.com/originals/12/fa/7d/12fa7df7ba74ac00d846d8d490f7c8a4.jpg','fsizedoc','https://i.pinimg.com/originals/30/78/75/307875a9132c6e704eec94bc31fd4f71.jpg','https://i.pinimg.com/originals/9f/23/1a/9f231a6acc906f95ff3f917211b9abda.png','https://i.pinimg.com/originals/a3/70/e1/a370e1f592136a385ac6cb15918d25f1.jpg','https://i.pinimg.com/originals/1e/14/22/1e14229be49534cbf3d43b71b1738b80.jpg','dxlsx','6lWscKd','prems','1590065bFxgSb','https://i.pinimg.com/originals/cb/ef/94/cbef94975cfed070027c2175a730155d.jpg','4wxCHCf','https://i.pinimg.com/originals/b8/b3/f3/b8b3f397fead38a988174df75d481202.png','\x1a\x1a\x1a\x1a','https://api.akuari.my.id','https://i.pinimg.com/originals/ef/90/4e/ef904eda01a996e5a9d557a55db6da0f.png','https://telegra.ph/file/c738a9fc0722a59825cbb.mp4','keysneoxrrr','FGSC','https://i.pinimg.com/originals/4e/37/02/4e37020a3e69f16cd04b246c2937b979.jpg','https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg','https://i.pinimg.com/originals/14/17/dd/1417dd63009eea0b63252076f3b405e6.jpg','HIRO','FGLOG','https://i.pinimg.com/originals/1f/95/15/1f95156c3d8e2b339a22b3bad2f69a8a.png','https://i.pinimg.com/originals/b5/94/ef/b594ef0774d29f5a05cd182994aa354e.jpg','25MekiMy','https://i.pinimg.com/originals/44/39/17/443917c07ffd65caa7d7cd4065fb8571.jpg','24wFGSoq','length','https://i.pinimg.com/originals/4a/e2/74/4ae274c828a2c719bcf9f644106d26cf.jpg','https://i.pinimg.com/originals/f2/6d/35/f26d354b1421546ae993c83f5c7bcfb0.jpg','https://i.pinimg.com/originals/6d/bc/61/6dbc616311268a25b0ee0e1bd4de13b6.jpg','https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg','cfALv5','https://i.pinimg.com/originals/c8/0e/ee/c80eeea7a37d732d5a1b0e60464f9e18.jpg','THUMB','done','https://i.pinimg.com/originals/94/a6/69/94a6692d5bd9ba0bbd80ba1e4122b2f9.jpg','https://i.pinimg.com/originals/20/b0/96/20b0962b8c62584fbcd6e7675b4782a4.jpg','https://i.pinimg.com/originals/93/62/9e/93629ee9ab27043076bce2b1f22f9193.jpg','https://i.pinimg.com/originals/d5/a2/c9/d5a2c9cdfac835518e45b13cfc39819d.jpg','https://i.pinimg.com/originals/8b/f8/46/8bf8468935d529c6383771097381196a.jpg','https://i.pinimg.com/originals/25/7e/db/257edb1b91a127bcf91cc2ea6b29edaf.jpg','application/pdf','random','https://i.pinimg.com/originals/67/a7/54/67a754077a1ffc75c25b3c7bb04d2258.png','dpptx','https://i.pinimg.com/originals/45/11/41/451141522a9086f56efc0da3fdac1957.jpg','now','4834890pApJqf','https://i.pinimg.com/originals/6a/4d/11/6a4d11cb5bab1466cf1ccb8c6c4f9eb6.jpg','https://i.pinimg.com/originals/8f/fe/d4/8ffed485ed8b6db07067e452f8399fff.jpg','https://i.pinimg.com/originals/db/b6/46/dbb6463c9134591aa79369f325877e03.jpg','error','dpdf','https://i.pinimg.com/originals/da/ae/25/daae25409adec418a9b6f6c5dcdecd47.jpg','https://zenzapis.xyz','text/rtf','drtf','http://bochil.ddns.net','APIKeys','https://i.pinimg.com/originals/e2/f1/0e/e2f10ead12c9a2d7c0bb29442604f43d.jpg','https://i.pinimg.com/originals/40/de/84/40de84ce2ee376d8fae8ff5863d6edb0.jpg','https://i.pinimg.com/originals/5f/79/71/5f79713647b3e99a787ee7483715c1eb.jpg','https://i.pinimg.com/originals/47/18/af/4718afcd517c8e7e07cc9dba48b3b770.jpg','allowed','https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg','https://i.pinimg.com/originals/2c/e6/02/2ce6025d9d1736cf3e67db1fd2bdaf35.jpg','https://i.pinimg.com/originals/f2/dd/cc/f2ddccd5a1b89d2302cf75c6520c58dd.png','https://i.pinimg.com/originals/95/bb/2e/95bb2e7c8b71754003d063f39feb232a.jpg','keysxteam','https://i.pinimg.com/originals/9e/53/a9/9e53a92ee711d979b9bdbb6212115fe0.jpg','https://i.pinimg.com/originals/4e/9a/7a/4e9a7a196cea58427163313b7db6363e.jpg','https://i.pinimg.com/originals/cf/4f/cf/cf4fcf2036f0b5b974f146f2c0ba81db.jpg','packname','https://i.pinimg.com/originals/ed/ea/37/edea37b6f876bfc8f59bbae4d43e26d7.jpg','https://i.pinimg.com/originals/96/29/1e/96291e9abbf311b8fc6c8c3f9f8ae059.jpg','https://i.pinimg.com/originals/8f/55/04/8f55043dfd9d244f172077bdc0304c6a.png','https://i.pinimg.com/originals/b9/a9/66/b9a9669f0fbbe75e780adad301601b43.jpg','https://i.pinimg.com/originals/fb/f7/a9/fbf7a92af75577e33a564ce490154c8f.jpg','https://i.pinimg.com/originals/77/cc/bc/77ccbcd52758458669ed5eadf4437111.jpg','https://i.pinimg.com/originals/ee/ee/fd/eeeefda1774a2d5dced265c1a2d398d5.jpg','https://i.pinimg.com/originals/46/79/25/467925d52634fd098ab6890a23c33f30.jpg','?update=','https://i.pinimg.com/originals/0f/98/5f/0f985ffbfff2650d6e3ecf8ba0eb574e.jpg','https://i.pinimg.com/originals/22/8b/ca/228bca60a07d72cac953a9c3be542bab.jpg','https://i.pinimg.com/originals/8d/ad/58/8dad58f3b258b3d7f2e913cb4561d99f.jpg','https://i.pinimg.com/originals/f1/f7/fc/f1f7fca39eba7d64e50749da5406247c.jpg','maxwarn','https://i.pinimg.com/originals/59/8e/bf/598ebf206f5ec366e2e32e8c6e8cffb4.jpg','6fb0eff124','https://i.pinimg.com/originals/46/ad/05/46ad0505d33a2c2359f84ed9b867a58c.jpg','3688YwZGpw','99999999999999','https://i.pinimg.com/originals/a0/55/41/a055419e96bc61a5990c575af10ba99e.png'];_0x1bb8=function(){return _0xe256c1;};return _0x1bb8();}global['mods']=['916380260672'],global[_0x158c06(0x1b2)]=[_0x158c06(0x16d)],global[_0x158c06(0x1ec)]=[_0x158c06(0x16d)],global[_0x158c06(0x188)]=[_0x158c06(0x1a6),_0x158c06(0x1a4),_0x158c06(0x125)],global[_0x158c06(0x132)]=keysZens[Math['floor'](keysZens[_0x158c06(0x1c7)]*Math[_0x158c06(0x1d7)]())],global['keysxteammm']=[_0x158c06(0x163),_0x158c06(0x199),'cb15ed422c71a2fb',_0x158c06(0x171),_0x158c06(0x1c0),_0x158c06(0x161),'ebb6251cc00f9c63'],global[_0x158c06(0x1f1)]=keysxteammm[Math['floor'](keysxteammm[_0x158c06(0x1c7)]*Math[_0x158c06(0x1d7)]())],global[_0x158c06(0x1bb)]=[_0x158c06(0x12c),_0x158c06(0x1cc)],global['keysneoxr']=keysneoxrrr[Math['floor'](keysneoxrrr[_0x158c06(0x1c7)]*Math[_0x158c06(0x1d7)]())],global['lolkeysapi']=[_0x158c06(0x16c)],global[_0x158c06(0x151)]={'xteam':'https://api.xteam.xyz','dzx':'https://api.dhamzxploit.my.id','lol':_0x158c06(0x1a0),'violetics':'https://violetics.pw','neoxr':'https://api.neoxr.my.id','zenzapis':_0x158c06(0x1e3),'akuari':_0x158c06(0x1b8),'akuari2':_0x158c06(0x12f),'nrtm':'https://fg-nrtm.ddns.net','bg':_0x158c06(0x1e6),'fgmods':'https://api-fgmods.ddns.net'},global[_0x158c06(0x1e7)]={'https://api.xteam.xyz':_0x158c06(0x193),'https://api.lolhuman.xyz':'85faf717d0545d14074659ad','https://api.neoxr.my.id':''+keysneoxr,'https://violetics.pw':'beta','https://zenzapis.xyz':''+keysxxx,'https://api-fgmods.ddns.net':_0x158c06(0x140)},global[_0x158c06(0x12d)]=process[_0x158c06(0x174)][_0x158c06(0x1ce)],global[_0x158c06(0x18b)]=_0x158c06(0x17b),global[_0x158c06(0x1f5)]=process[_0x158c06(0x174)][_0x158c06(0x17e)],global['author']=process['env'][_0x158c06(0x138)],global['menuvid']=process[_0x158c06(0x174)][_0x158c06(0x155)],global[_0x158c06(0x142)]=process['env'][_0x158c06(0x169)],global['dygp']=process[_0x158c06(0x174)][_0x158c06(0x13d)],global[_0x158c06(0x1a5)]=process['env'][_0x158c06(0x1bc)],global[_0x158c06(0x1a9)]=process[_0x158c06(0x174)][_0x158c06(0x17a)],global[_0x158c06(0x157)]=process['env']['FGPYP'],global[_0x158c06(0x162)]=process['env'][_0x158c06(0x1c1)],global[_0x158c06(0x15b)]=process[_0x158c06(0x174)][_0x158c06(0x1ce)],global['thumb2']=_0x158c06(0x145),global[_0x158c06(0x1d9)]='application/vnd.openxmlformats-officedocument.presentationml.presentation',global['ddocx']='application/vnd.openxmlformats-officedocument.wordprocessingml.document',global[_0x158c06(0x1b0)]=_0x158c06(0x13f),global[_0x158c06(0x1e1)]=_0x158c06(0x1d6),global[_0x158c06(0x1e5)]=_0x158c06(0x1e4),global[_0x158c06(0x152)]=[_0x158c06(0x1cb),_0x158c06(0x1ba),process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)]['THUMB'],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process['env'][_0x158c06(0x1ce)],process['env'][_0x158c06(0x1ce)],process['env'][_0x158c06(0x1ce)],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process['env'][_0x158c06(0x1ce)],process[_0x158c06(0x174)]['THUMB'],process[_0x158c06(0x174)][_0x158c06(0x1ce)],process['env'][_0x158c06(0x1ce)],process[_0x158c06(0x174)]['THUMB']],global[_0x158c06(0x15f)]=[_0x158c06(0x1be),'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',_0x158c06(0x160),_0x158c06(0x1ef),'https://i.pinimg.com/originals/aa/6b/df/aa6bdf98cbc9e1fc741c36682fa3e838.jpg',_0x158c06(0x149),_0x158c06(0x158),_0x158c06(0x126),_0x158c06(0x182),_0x158c06(0x1fd),_0x158c06(0x150),_0x158c06(0x14a),'https://i.pinimg.com/originals/29/a4/b4/29a4b4573f993d7d6abb45843f529892.jpg',_0x158c06(0x1e9),'https://i.pinimg.com/originals/b6/f5/b7/b6f5b7d59fd4f332b3820db38612a5a0.jpg','https://i.pinimg.com/originals/94/38/6d/94386d3c23f509dbc30341fed0363a07.jpg',_0x158c06(0x1c3),_0x158c06(0x146),_0x158c06(0x148),'https://i.pinimg.com/originals/72/7a/08/727a08cdf67b62c2ba49e7308c09a1cd.jpg',_0x158c06(0x167),_0x158c06(0x1ea),_0x158c06(0x1b6),'https://i.pinimg.com/originals/7a/e0/55/7ae055891f8200cd62ec76a40d47118d.jpg',_0x158c06(0x156),_0x158c06(0x120),_0x158c06(0x135),_0x158c06(0x1da),_0x158c06(0x153),_0x158c06(0x17f),_0x158c06(0x1c2),'https://i.pinimg.com/originals/bb/1a/12/bb1a1249dbc73736ab534fdd52bdc74c.jpg',_0x158c06(0x189),_0x158c06(0x15e),_0x158c06(0x1f2),_0x158c06(0x17d),_0x158c06(0x183),_0x158c06(0x197),_0x158c06(0x173),_0x158c06(0x14c),_0x158c06(0x15a),_0x158c06(0x147),_0x158c06(0x172),_0x158c06(0x176),_0x158c06(0x1b9),_0x158c06(0x1fa),'https://i.pinimg.com/originals/16/92/89/1692897136ac3688ab9ccdbb0e54fb21.jpg',_0x158c06(0x136),_0x158c06(0x191),_0x158c06(0x1d8),'https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg','https://i.pinimg.com/originals/83/e5/71/83e5710c42b9e8b9e1a4b6381c4535fe.jpg',_0x158c06(0x149),_0x158c06(0x160),_0x158c06(0x16f),'https://i.pinimg.com/originals/16/14/9c/16149c94a7c0f753230b1edbd03ab3e6.jpg',_0x158c06(0x168),_0x158c06(0x1ca),'https://i.pinimg.com/originals/60/34/18/603418ea5c35839914a1071e134add8b.jpg',_0x158c06(0x1ea),_0x158c06(0x1f6),_0x158c06(0x12a),'https://i.pinimg.com/originals/f6/20/b4/f620b4b1c2aaf096455952465db8a980.jpg','https://i.pinimg.com/originals/97/50/73/9750731b4b004da61d44fe01dbe93d85.jpg',_0x158c06(0x129),_0x158c06(0x18a),_0x158c06(0x18f),_0x158c06(0x1f0),'https://i.pinimg.com/originals/c4/e4/1d/c4e41d096e7585a7e6245e852ece25c2.jpg',_0x158c06(0x192),'https://i.pinimg.com/originals/7a/3b/e6/7a3be6cf1595fe6764b5b18b46ca576d.jpg',_0x158c06(0x164),_0x158c06(0x1f7),_0x158c06(0x19f),_0x158c06(0x1eb),_0x158c06(0x134),'https://i.pinimg.com/originals/0f/98/5f/0f985ffbfff2650d6e3ecf8ba0eb574e.jpg',_0x158c06(0x194),_0x158c06(0x1ef),_0x158c06(0x122),_0x158c06(0x13c),_0x158c06(0x1d8),_0x158c06(0x1de),_0x158c06(0x1df),_0x158c06(0x1ad),_0x158c06(0x1f9),'https://i.pinimg.com/originals/86/ed/26/86ed265f2dbb22a48bbc612f59303508.png',_0x158c06(0x1e2),'https://i.pinimg.com/originals/a4/6d/fa/a46dfad749d0577366e9ea2db6cc305e.jpg',_0x158c06(0x186),'https://i.pinimg.com/originals/d9/e1/30/d9e1307a5fbbeb2a267562eab8abc063.jpg',_0x158c06(0x133),_0x158c06(0x165),_0x158c06(0x1f4),_0x158c06(0x1d2),'https://i.pinimg.com/originals/99/6b/c4/996bc4049d632bdbf7d9bc24dc8081f0.png',_0x158c06(0x1c9),_0x158c06(0x17f),_0x158c06(0x19d),_0x158c06(0x1bf),_0x158c06(0x166),_0x158c06(0x149),_0x158c06(0x158),_0x158c06(0x1c5),_0x158c06(0x156),_0x158c06(0x1c8),_0x158c06(0x16b),'https://i.pinimg.com/originals/71/16/31/711631ac52f7809f530e40f230b371a4.jpg',_0x158c06(0x13b),_0x158c06(0x1fd),'https://i.pinimg.com/originals/ef/90/4e/ef904eda01a996e5a9d557a55db6da0f.png','https://i.pinimg.com/originals/a2/e7/73/a2e773fdb7ce0fc99eb123d8a81764ec.jpg','https://i.pinimg.com/originals/79/92/ed/7992ed0c9b272654938ea186cc2e3f4a.jpg',_0x158c06(0x16a),_0x158c06(0x1d1),_0x158c06(0x170),_0x158c06(0x18f),'https://i.pinimg.com/originals/4e/43/7b/4e437b1bbdee605d833155a97d35bef1.png',_0x158c06(0x1d3),_0x158c06(0x1f0),_0x158c06(0x1a2),_0x158c06(0x178),'https://i.pinimg.com/originals/f0/67/f0/f067f00a885fab47d76d4e5423d54c35.jpg',_0x158c06(0x1f3),'https://i.pinimg.com/originals/53/4c/6a/534c6a2e65fdb4c52824f94acc5e2195.jpg',_0x158c06(0x181),_0x158c06(0x190),_0x158c06(0x179),_0x158c06(0x1be),_0x158c06(0x13e),'https://i.pinimg.com/originals/22/8b/ca/228bca60a07d72cac953a9c3be542bab.jpg',_0x158c06(0x184),_0x158c06(0x175),'https://i.pinimg.com/originals/42/88/f1/4288f17ee25b909430fb7e707d961d0b.jpg',_0x158c06(0x1cd),_0x158c06(0x131),_0x158c06(0x1bd),_0x158c06(0x124),_0x158c06(0x1b4),_0x158c06(0x177),_0x158c06(0x14b),'https://i.pinimg.com/originals/17/16/76/1716760d93dcbf7664380fd81f3133f5.jpg',_0x158c06(0x1ae),'https://i.pinimg.com/originals/89/ee/ab/89eeabd90e54b2951459f81f51e2c791.jpg',_0x158c06(0x139),'https://i.pinimg.com/originals/67/a7/54/67a754077a1ffc75c25b3c7bb04d2258.png','https://i.pinimg.com/originals/c3/1e/58/c31e58fae7f58af4d643c5a2facd49d7.jpg',_0x158c06(0x1ff),_0x158c06(0x15c),_0x158c06(0x1af),'https://i.pinimg.com/originals/35/04/d5/3504d53c5850b3bddaa6e0e0714ccacb.jpg',_0x158c06(0x158),_0x158c06(0x18f),_0x158c06(0x168),_0x158c06(0x156),_0x158c06(0x1d3),'https://i.pinimg.com/originals/d7/02/54/d7025401aec66a4baf0fbcbc1054b499.jpg',_0x158c06(0x1f0),_0x158c06(0x1fc),'https://i.pinimg.com/originals/c3/1e/58/c31e58fae7f58af4d643c5a2facd49d7.jpg',_0x158c06(0x19c),_0x158c06(0x159),'https://i.pinimg.com/originals/51/08/53/5108536a4826d3354ac3fe9c3c867cb1.png',_0x158c06(0x1fb),'https://i.pinimg.com/originals/51/0f/8c/510f8cb8f28b8666d560f89e2006d4b1.jpg',_0x158c06(0x178),_0x158c06(0x198),_0x158c06(0x134),_0x158c06(0x16e),'https://i.pinimg.com/originals/ee/cf/7c/eecf7cc7f65e5d503399cc88f0e6ef6c.jpg',_0x158c06(0x1f3),_0x158c06(0x1d4),_0x158c06(0x141),_0x158c06(0x1d0),_0x158c06(0x1f8),_0x158c06(0x12e),_0x158c06(0x154),_0x158c06(0x17f),_0x158c06(0x1e8),'https://i.pinimg.com/originals/f5/2a/09/f52a09910f1cad9b5b01d79a620870dc.jpg','https://i.pinimg.com/originals/d9/e1/30/d9e1307a5fbbeb2a267562eab8abc063.jpg',_0x158c06(0x1dd),_0x158c06(0x187),'https://i.pinimg.com/originals/93/0a/5f/930a5fc6f8f6e64e87ac2cc30b8430ac.jpg',_0x158c06(0x1ac),_0x158c06(0x1aa),'https://i.pinimg.com/originals/68/f6/f3/68f6f37335624f89cda17ab928f51138.jpg','https://i.pinimg.com/originals/de/f6/e7/def6e7ce26ad6a1096e8b1ef395a1904.jpg',_0x158c06(0x1a7),'https://i.pinimg.com/originals/b3/c5/d1/b3c5d1076a9a48c075c8a92987b03bf3.jpg',_0x158c06(0x1ee),_0x158c06(0x14d),_0x158c06(0x195),_0x158c06(0x19e),_0x158c06(0x1d5),_0x158c06(0x147),_0x158c06(0x121),'https://i.pinimg.com/originals/8d/04/9a/8d049a1e6951491b24ea4c364f2459bc.jpg',_0x158c06(0x180),_0x158c06(0x1ed)],global[_0x158c06(0x143)]=process[_0x158c06(0x174)]['THUMB'],global[_0x158c06(0x1ab)]=_0x158c06(0x128),global['fpagedoc']=_0x158c06(0x1a8),global[_0x158c06(0x13a)]='Please\x20Wait\x20Toxic\x20Alexa\x20Is\x20Working\x20On\x20It',global[_0x158c06(0x12b)]=_0x158c06(0x15d),global[_0x158c06(0x18e)]=_0x158c06(0x1b7),global[_0x158c06(0x1cf)]=_0x158c06(0x1a3),global[_0x158c06(0x1e0)]=_0x158c06(0x196),global[_0x158c06(0x18d)]='🔖',global[_0x158c06(0x19b)]=0x45,global[_0x158c06(0x123)]='3';let file=fileURLToPath(import.meta['url']);watchFile(file,()=>{const _0x3dfceb=_0x158c06;unwatchFile(file),console[_0x3dfceb(0x17c)](_0x1eb8b4['redBright']('Update\x20\x27config.js\x27')),import(file+_0x3dfceb(0x1fe)+Date[_0x3dfceb(0x1db)]());});
+import { watchFile, unwatchFile } from 'fs'
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+import fs from 'fs'
+
+import dotenv from 'dotenv'
+dotenv.config()
+
+const ownervb = process.env.OWNERS;916380260672;
+if (!ownervb) {
+    throw new Error("Please Check Your Owner Env");
+}
+
+const ownerlist = ownervb.split(';');
+
+global.owner = [];
+for (let i = 0; i < ownerlist.length; i += 2) {
+    const owner = [
+        ownerlist[i],            
+        ownerlist[i + 1],         
+        true                        
+    ];
+    global.owner.push(owner);
+}
+
+//global.pairingNumber = "" //put your bot number here
+
+global.mods = ['916380260672']
+global.prems = ['916380260672']
+global.allowed = ['916380260672']
+global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
+global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
+global.keysxteammm = [
+  '29d4b59a4aa687ca',
+  '5LTV57azwaid7dXfz5fzJu',
+  'cb15ed422c71a2fb',
+  '5bd33b276d41d6b4',
+  'HIRO',
+  'kurrxd09',
+  'ebb6251cc00f9c63',
+]
+global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
+global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
+global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
+global.lolkeysapi = ['GataDios']
+
+global.APIs = {
+  // API Prefix
+  // name: 'https://website'
+  xteam: 'https://api.xteam.xyz',
+  dzx: 'https://api.dhamzxploit.my.id',
+  lol: 'https://api.lolhuman.xyz',
+  violetics: 'https://violetics.pw',
+  neoxr: 'https://api.neoxr.my.id',
+  zenzapis: 'https://zenzapis.xyz',
+  akuari: 'https://api.akuari.my.id',
+  akuari2: 'https://apimu.my.id',
+  nrtm: 'https://fg-nrtm.ddns.net',
+  bg: 'http://bochil.ddns.net',
+  fgmods: 'https://api-fgmods.ddns.net',
+}
+global.APIKeys = {
+  // APIKey Here
+  // 'https://website': 'apikey'
+  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
+  'https://api.neoxr.my.id': `${keysneoxr}`,
+  'https://violetics.pw': 'beta',
+  'https://zenzapis.xyz': `${keysxxx}`,
+  'https://api-fgmods.ddns.net': 'fg-dylux',
+}
+
+// Sticker WM
+global.botname = process.env.BOTNAME
+global.premium = 'true'
+global.packname = process.env.PACKNAME
+global.author = process.env.AUTHOR
+global.menuvid = process.env.MENUVID
+global.igfg = process.env.IGFG
+global.dygp = process.env.DYGP
+global.fgsc = process.env.FGSC
+global.fgyt = process.env.FGYT
+global.fgpyp = process.env.FGPYP
+global.fglog = process.env.FGLOG
+global.thumb = process.env.THUMB
+global.thumb2 = './Assets/Alexa.png'
+
+global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
+global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
+global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+global.dpdf = 'application/pdf'
+global.drtf = 'text/rtf'
+
+global.alexaimg = [
+    'https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg',
+    'https://telegra.ph/file/c738a9fc0722a59825cbb.mp4',
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB,
+    process.env.THUMB
+]
+
+global.alexamedia = [
+    'https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
+    'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
+    'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
+    'https://i.pinimg.com/originals/f2/dd/cc/f2ddccd5a1b89d2302cf75c6520c58dd.png',
+    'https://i.pinimg.com/originals/aa/6b/df/aa6bdf98cbc9e1fc741c36682fa3e838.jpg',
+    'https://i.pinimg.com/originals/88/46/88/884688def830c43648f88154836a8b05.jpg',
+    'https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg',
+    'https://i.pinimg.com/originals/46/ad/05/46ad0505d33a2c2359f84ed9b867a58c.jpg',
+    'https://i.pinimg.com/originals/23/b7/fb/23b7fb922770e139a2a57b1a443a2180.jpg',
+    'https://i.pinimg.com/originals/46/79/25/467925d52634fd098ab6890a23c33f30.jpg',
+    'https://i.pinimg.com/originals/a4/a1/74/a4a1740e565f4205eb3f700e1936e064.jpg',
+    'https://i.pinimg.com/originals/f9/8d/2c/f98d2c3f64e50ba6c8efd9fdc7cf0093.png',
+    'https://i.pinimg.com/originals/29/a4/b4/29a4b4573f993d7d6abb45843f529892.jpg',
+    'https://i.pinimg.com/originals/40/de/84/40de84ce2ee376d8fae8ff5863d6edb0.jpg',
+    'https://i.pinimg.com/originals/b6/f5/b7/b6f5b7d59fd4f332b3820db38612a5a0.jpg',
+    'https://i.pinimg.com/originals/94/38/6d/94386d3c23f509dbc30341fed0363a07.jpg',
+    'https://i.pinimg.com/originals/b5/94/ef/b594ef0774d29f5a05cd182994aa354e.jpg',
+    'https://i.pinimg.com/originals/0f/ed/3f/0fed3f4c456158c506d88f5867ca93d2.jpg',
+    'https://i.pinimg.com/originals/1b/7a/a8/1b7aa80191b83b888e9ea6042f090763.jpg',
+    'https://i.pinimg.com/originals/72/7a/08/727a08cdf67b62c2ba49e7308c09a1cd.jpg',
+    'https://i.pinimg.com/originals/86/93/75/8693757390b9d5b83fb8e40ff9ea876f.jpg',
+    'https://i.pinimg.com/originals/5f/79/71/5f79713647b3e99a787ee7483715c1eb.jpg',
+    'https://i.pinimg.com/originals/b8/b3/f3/b8b3f397fead38a988174df75d481202.png',
+    'https://i.pinimg.com/originals/7a/e0/55/7ae055891f8200cd62ec76a40d47118d.jpg',
+    'https://i.pinimg.com/originals/bc/9b/81/bc9b81c63b4844fd1a434d462bdfbd80.png',
+    'https://i.pinimg.com/originals/22/8b/ca/228bca60a07d72cac953a9c3be542bab.jpg',
+    'https://i.pinimg.com/originals/41/10/c6/4110c64fc91a1c85de02166f67aff7ad.jpg',
+    'https://i.pinimg.com/originals/45/11/41/451141522a9086f56efc0da3fdac1957.jpg',
+    'https://i.pinimg.com/originals/c1/4e/c7/c14ec7dffbc682f78c52ad8a295b8831.jpg',
+    'https://i.pinimg.com/originals/25/5d/d9/255dd9dde5f44673092a4f15e917759f.jpg',
+    'https://i.pinimg.com/originals/1f/95/15/1f95156c3d8e2b339a22b3bad2f69a8a.png',
+    'https://i.pinimg.com/originals/bb/1a/12/bb1a1249dbc73736ab534fdd52bdc74c.jpg',
+    'https://i.pinimg.com/originals/d5/58/a7/d558a745f2452d851d480025ab341537.jpg',
+    'https://i.pinimg.com/originals/e7/00/0e/e7000e7e72c1b37ea7a4c780182d05d8.jpg',
+    'https://i.pinimg.com/originals/9e/53/a9/9e53a92ee711d979b9bdbb6212115fe0.jpg',
+    'https://i.pinimg.com/originals/c6/16/d9/c616d9a871ed3cd9fb6a46efb7f92d95.jpg',
+    'https://i.pinimg.com/originals/ac/f0/29/acf029047efffe57999fa876554cbf1d.jpg',
+    'https://i.pinimg.com/originals/ae/86/3b/ae863b64ca579f05008dbf027b04988f.jpg',
+    'https://i.pinimg.com/originals/d5/65/43/d56543a959da518e08012b4db93747bb.jpg',
+    'https://i.pinimg.com/originals/ed/3c/e2/ed3ce276ca71e5bfec1cf2fbfc5561e1.jpg',
+    'https://i.pinimg.com/originals/66/30/37/663037f00539f3bc1dbd3efeae0d700b.jpg',
+    'https://i.pinimg.com/originals/63/6b/7b/636b7bd0e1df03f0bf72c494cedd6f07.png',
+    'https://i.pinimg.com/originals/db/a4/13/dba413518c0a470a5e81cafa431281da.jpg',
+    'https://i.pinimg.com/originals/3b/d9/aa/3bd9aa880d23dc3262e119ca09345e99.jpg',
+    'https://i.pinimg.com/originals/ef/90/4e/ef904eda01a996e5a9d557a55db6da0f.png',
+    'https://i.pinimg.com/originals/fb/f7/a9/fbf7a92af75577e33a564ce490154c8f.jpg',
+    'https://i.pinimg.com/originals/16/92/89/1692897136ac3688ab9ccdbb0e54fb21.jpg',
+    'https://i.pinimg.com/originals/fc/51/4e/fc514e2f4c23eb96721611b483edc28c.jpg',
+    'https://i.pinimg.com/originals/bb/a4/98/bba49848bc4369333f4128b62fc64258.jpg',
+    'https://i.pinimg.com/originals/67/a7/54/67a754077a1ffc75c25b3c7bb04d2258.png',
+    'https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg',
+    'https://i.pinimg.com/originals/83/e5/71/83e5710c42b9e8b9e1a4b6381c4535fe.jpg',
+    'https://i.pinimg.com/originals/88/46/88/884688def830c43648f88154836a8b05.jpg',
+    'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
+    'https://i.pinimg.com/originals/42/88/f1/4288f17ee25b909430fb7e707d961d0b.jpg',
+    'https://i.pinimg.com/originals/16/14/9c/16149c94a7c0f753230b1edbd03ab3e6.jpg',
+    'https://i.pinimg.com/originals/7f/f5/46/7ff546b38e2969e578e697c44944b74f.jpg',
+    'https://i.pinimg.com/originals/6d/bc/61/6dbc616311268a25b0ee0e1bd4de13b6.jpg',
+    'https://i.pinimg.com/originals/60/34/18/603418ea5c35839914a1071e134add8b.jpg',
+    'https://i.pinimg.com/originals/5f/79/71/5f79713647b3e99a787ee7483715c1eb.jpg',
+    'https://i.pinimg.com/originals/ed/ea/37/edea37b6f876bfc8f59bbae4d43e26d7.jpg',
+    'https://i.pinimg.com/originals/94/38/6d/94386d3c23f509dbc30341fed0363a07.jpg',
+    'https://i.pinimg.com/originals/f6/20/b4/f620b4b1c2aaf096455952465db8a980.jpg',
+    'https://i.pinimg.com/originals/97/50/73/9750731b4b004da61d44fe01dbe93d85.jpg',
+    'https://i.pinimg.com/originals/a0/55/41/a055419e96bc61a5990c575af10ba99e.png',
+    'https://i.pinimg.com/originals/aa/6b/df/aa6bdf98cbc9e1fc741c36682fa3e838.jpg',
+    'https://i.pinimg.com/originals/c2/4f/75/c24f7518e17faba4bf8908a39be604a6.jpg',
+    'https://i.pinimg.com/originals/95/bb/2e/95bb2e7c8b71754003d063f39feb232a.jpg',
+    'https://i.pinimg.com/originals/c4/e4/1d/c4e41d096e7585a7e6245e852ece25c2.jpg',
+    'https://i.pinimg.com/originals/87/cf/bc/87cfbc189e773ed9294bccfd50a4fbc7.jpg',
+    'https://i.pinimg.com/originals/7a/3b/e6/7a3be6cf1595fe6764b5b18b46ca576d.jpg',
+    'https://i.pinimg.com/originals/c5/42/f8/c542f83b992e51c6d2519f07489b1dec.jpg',
+    'https://i.pinimg.com/originals/96/29/1e/96291e9abbf311b8fc6c8c3f9f8ae059.jpg',
+    'https://i.pinimg.com/originals/e5/1a/8d/e51a8d35d2b717fa757fa2abf053a2c7.jpg',
+    'https://i.pinimg.com/originals/47/18/af/4718afcd517c8e7e07cc9dba48b3b770.jpg',
+    'https://i.pinimg.com/originals/39/2c/cb/392ccb1793c5a23783869994b1ec24b7.jpg',
+    'https://i.pinimg.com/originals/0f/98/5f/0f985ffbfff2650d6e3ecf8ba0eb574e.jpg',
+    'https://i.pinimg.com/originals/ab/f9/50/abf950c9aa1c4710437d9acc83078f87.jpg',
+    'https://i.pinimg.com/originals/f2/dd/cc/f2ddccd5a1b89d2302cf75c6520c58dd.png',
+    'https://i.pinimg.com/originals/f1/f7/fc/f1f7fca39eba7d64e50749da5406247c.jpg',
+    'https://i.pinimg.com/originals/71/18/96/711896c067c28814ec9ec9c25d4a3ba9.jpg',
+    'https://i.pinimg.com/originals/67/a7/54/67a754077a1ffc75c25b3c7bb04d2258.png',
+    'https://i.pinimg.com/originals/8f/fe/d4/8ffed485ed8b6db07067e452f8399fff.jpg',
+    'https://i.pinimg.com/originals/db/b6/46/dbb6463c9134591aa79369f325877e03.jpg',
+    'https://i.pinimg.com/originals/9f/23/1a/9f231a6acc906f95ff3f917211b9abda.png',
+    'https://i.pinimg.com/originals/b9/a9/66/b9a9669f0fbbe75e780adad301601b43.jpg',
+    'https://i.pinimg.com/originals/86/ed/26/86ed265f2dbb22a48bbc612f59303508.png',
+    'https://i.pinimg.com/originals/da/ae/25/daae25409adec418a9b6f6c5dcdecd47.jpg',
+    'https://i.pinimg.com/originals/a4/6d/fa/a46dfad749d0577366e9ea2db6cc305e.jpg',
+    'https://i.pinimg.com/originals/09/5b/4d/095b4d0ce48f40eca7ad23e43e85ab9a.jpg',
+    'https://i.pinimg.com/originals/d9/e1/30/d9e1307a5fbbeb2a267562eab8abc063.jpg',
+    'https://i.pinimg.com/originals/db/cf/dc/dbcfdc263095906eabf7e06099ebaef0.png',
+    'https://i.pinimg.com/originals/89/14/0d/89140d3ef976904013f672fea0157b7e.png',
+    'https://i.pinimg.com/originals/cf/4f/cf/cf4fcf2036f0b5b974f146f2c0ba81db.jpg',
+    'https://i.pinimg.com/originals/93/62/9e/93629ee9ab27043076bce2b1f22f9193.jpg',
+    'https://i.pinimg.com/originals/99/6b/c4/996bc4049d632bdbf7d9bc24dc8081f0.png',
+    'https://i.pinimg.com/originals/f2/6d/35/f26d354b1421546ae993c83f5c7bcfb0.jpg',
+    'https://i.pinimg.com/originals/25/5d/d9/255dd9dde5f44673092a4f15e917759f.jpg',
+    'https://i.pinimg.com/originals/08/8f/1d/088f1dc58092b60652e05cc941ee0fbd.jpg',
+    'https://i.pinimg.com/originals/14/17/dd/1417dd63009eea0b63252076f3b405e6.jpg',
+    'https://i.pinimg.com/originals/35/04/d5/3504d53c5850b3bddaa6e0e0714ccacb.jpg',
+    'https://i.pinimg.com/originals/88/46/88/884688def830c43648f88154836a8b05.jpg',
+    'https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg',
+    'https://i.pinimg.com/originals/44/39/17/443917c07ffd65caa7d7cd4065fb8571.jpg',
+    'https://i.pinimg.com/originals/bc/9b/81/bc9b81c63b4844fd1a434d462bdfbd80.png',
+    'https://i.pinimg.com/originals/4a/e2/74/4ae274c828a2c719bcf9f644106d26cf.jpg',
+    'https://i.pinimg.com/originals/d0/cb/da/d0cbdaa334fa92f8b09d1c4d1ddc9cd2.jpg',
+    'https://i.pinimg.com/originals/71/16/31/711631ac52f7809f530e40f230b371a4.jpg',
+    'https://i.pinimg.com/originals/af/f1/1b/aff11bcfdf946a7bba1687c80515f902.jpg',
+    'https://i.pinimg.com/originals/46/79/25/467925d52634fd098ab6890a23c33f30.jpg',
+    'https://i.pinimg.com/originals/ef/90/4e/ef904eda01a996e5a9d557a55db6da0f.png',
+    'https://i.pinimg.com/originals/a2/e7/73/a2e773fdb7ce0fc99eb123d8a81764ec.jpg',
+    'https://i.pinimg.com/originals/79/92/ed/7992ed0c9b272654938ea186cc2e3f4a.jpg',
+    'https://i.pinimg.com/originals/7a/08/c8/7a08c8c22066a142f22928662d9d70aa.jpg',
+    'https://i.pinimg.com/originals/20/b0/96/20b0962b8c62584fbcd6e7675b4782a4.jpg',
+    'https://i.pinimg.com/originals/51/0f/8c/510f8cb8f28b8666d560f89e2006d4b1.jpg',
+    'https://i.pinimg.com/originals/c2/4f/75/c24f7518e17faba4bf8908a39be604a6.jpg',
+    'https://i.pinimg.com/originals/4e/43/7b/4e437b1bbdee605d833155a97d35bef1.png',
+    'https://i.pinimg.com/originals/d5/a2/c9/d5a2c9cdfac835518e45b13cfc39819d.jpg',
+    'https://i.pinimg.com/originals/95/bb/2e/95bb2e7c8b71754003d063f39feb232a.jpg',
+    'https://i.pinimg.com/originals/16/92/89/1692897136ac3688ab9ccdbb0e54fb21.jpg',
+    'https://i.pinimg.com/originals/6f/9a/86/6f9a86eb31e7c5bc34cf0d1d130574e0.png',
+    'https://i.pinimg.com/originals/f0/67/f0/f067f00a885fab47d76d4e5423d54c35.jpg',
+    'https://i.pinimg.com/originals/4e/9a/7a/4e9a7a196cea58427163313b7db6363e.jpg',
+    'https://i.pinimg.com/originals/53/4c/6a/534c6a2e65fdb4c52824f94acc5e2195.jpg',
+    'https://i.pinimg.com/originals/8d/04/9a/8d049a1e6951491b24ea4c364f2459bc.jpg',
+    'https://i.pinimg.com/originals/22/dc/94/22dc941e60b0ace15d796a94f07d8ba7.jpg',
+    'https://i.pinimg.com/originals/80/bc/96/80bc968b4dcd939b60ffe2c8b0c54d75.png',
+    'https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
+    'https://i.pinimg.com/originals/9b/36/24/9b36241f4a3b782c05eadb0805ef0dda.png',
+    'https://i.pinimg.com/originals/22/8b/ca/228bca60a07d72cac953a9c3be542bab.jpg',
+    'https://i.pinimg.com/originals/57/0e/9b/570e9b1288f1189a22b39c8e24ec957f.jpg',
+    'https://i.pinimg.com/originals/68/af/17/68af1781a9120a59629d0f774555185f.jpg',
+    'https://i.pinimg.com/originals/42/88/f1/4288f17ee25b909430fb7e707d961d0b.jpg',
+    'https://i.pinimg.com/originals/c8/0e/ee/c80eeea7a37d732d5a1b0e60464f9e18.jpg',
+    'https://i.pinimg.com/originals/1d/08/cb/1d08cbb9d42812984bed54e8291edaec.jpg',
+    'https://i.pinimg.com/originals/4e/37/02/4e37020a3e69f16cd04b246c2937b979.jpg',
+    'https://i.pinimg.com/originals/59/8e/bf/598ebf206f5ec366e2e32e8c6e8cffb4.jpg',
+    'https://i.pinimg.com/originals/cb/ef/94/cbef94975cfed070027c2175a730155d.jpg',
+    'https://i.pinimg.com/originals/e0/74/f8/e074f8dc647066a9f112533c789c0e42.png',
+    'https://i.pinimg.com/originals/60/ac/9e/60ac9edf63fcb43e3f00555cb71ae6f2.jpg',
+    'https://i.pinimg.com/originals/17/16/76/1716760d93dcbf7664380fd81f3133f5.jpg',
+    'https://i.pinimg.com/originals/a3/70/e1/a370e1f592136a385ac6cb15918d25f1.jpg',
+    'https://i.pinimg.com/originals/89/ee/ab/89eeabd90e54b2951459f81f51e2c791.jpg',
+    'https://i.pinimg.com/originals/77/0d/23/770d235d3f6dcd021bda5efdf53cca36.png',
+    'https://i.pinimg.com/originals/67/a7/54/67a754077a1ffc75c25b3c7bb04d2258.png',
+    'https://i.pinimg.com/originals/c3/1e/58/c31e58fae7f58af4d643c5a2facd49d7.jpg',
+    'https://i.pinimg.com/originals/0f/98/5f/0f985ffbfff2650d6e3ecf8ba0eb574e.jpg',
+    'https://i.pinimg.com/originals/93/0a/5f/930a5fc6f8f6e64e87ac2cc30b8430ac.jpg',
+    'https://i.pinimg.com/originals/1e/14/22/1e14229be49534cbf3d43b71b1738b80.jpg',
+    'https://i.pinimg.com/originals/35/04/d5/3504d53c5850b3bddaa6e0e0714ccacb.jpg',
+    'https://i.pinimg.com/originals/57/d9/20/57d920d58533915850b431bd0b8e1f1d.jpg',
+    'https://i.pinimg.com/originals/c2/4f/75/c24f7518e17faba4bf8908a39be604a6.jpg',
+    'https://i.pinimg.com/originals/7f/f5/46/7ff546b38e2969e578e697c44944b74f.jpg',
+    'https://i.pinimg.com/originals/bc/9b/81/bc9b81c63b4844fd1a434d462bdfbd80.png',
+    'https://i.pinimg.com/originals/d5/a2/c9/d5a2c9cdfac835518e45b13cfc39819d.jpg',
+    'https://i.pinimg.com/originals/d7/02/54/d7025401aec66a4baf0fbcbc1054b499.jpg',
+    'https://i.pinimg.com/originals/95/bb/2e/95bb2e7c8b71754003d063f39feb232a.jpg',
+    'https://i.pinimg.com/originals/ee/ee/fd/eeeefda1774a2d5dced265c1a2d398d5.jpg',
+    'https://i.pinimg.com/originals/c3/1e/58/c31e58fae7f58af4d643c5a2facd49d7.jpg',
+    'https://i.pinimg.com/originals/1f/9c/1d/1f9c1d5f4d2de0b74e81f190ab4f1792.jpg',
+    'https://i.pinimg.com/originals/7a/3b/e6/7a3be6cf1595fe6764b5b18b46ca576d.jpg',
+    'https://i.pinimg.com/originals/51/08/53/5108536a4826d3354ac3fe9c3c867cb1.png',
+    'https://i.pinimg.com/originals/77/cc/bc/77ccbcd52758458669ed5eadf4437111.jpg',
+    'https://i.pinimg.com/originals/51/0f/8c/510f8cb8f28b8666d560f89e2006d4b1.jpg',
+    'https://i.pinimg.com/originals/6f/9a/86/6f9a86eb31e7c5bc34cf0d1d130574e0.png',
+    'https://i.pinimg.com/originals/79/92/ed/7992ed0c9b272654938ea186cc2e3f4a.jpg',
+    'https://i.pinimg.com/originals/39/2c/cb/392ccb1793c5a23783869994b1ec24b7.jpg',
+    'https://i.pinimg.com/originals/3b/2c/02/3b2c020665f835b0dfdd74b8cc9ca22d.jpg',
+    'https://i.pinimg.com/originals/ee/cf/7c/eecf7cc7f65e5d503399cc88f0e6ef6c.jpg',
+    'https://i.pinimg.com/originals/4e/9a/7a/4e9a7a196cea58427163313b7db6363e.jpg',
+    'https://i.pinimg.com/originals/8b/f8/46/8bf8468935d529c6383771097381196a.jpg',
+    'https://i.pinimg.com/originals/f3/5d/ce/f35dce5f6742bd4f30033fe7b51335cc.jpg',
+    'https://i.pinimg.com/originals/94/a6/69/94a6692d5bd9ba0bbd80ba1e4122b2f9.jpg',
+    'https://i.pinimg.com/originals/8f/55/04/8f55043dfd9d244f172077bdc0304c6a.png',
+    'https://i.pinimg.com/originals/89/ee/ab/89eeabd90e54b2951459f81f51e2c791.jpg',
+    'https://i.pinimg.com/originals/83/5a/2e/835a2e582d1f803f03ab3a3c3e58b694.jpg',
+    'https://i.pinimg.com/originals/25/5d/d9/255dd9dde5f44673092a4f15e917759f.jpg',
+    'https://i.pinimg.com/originals/e2/f1/0e/e2f10ead12c9a2d7c0bb29442604f43d.jpg',
+    'https://i.pinimg.com/originals/f5/2a/09/f52a09910f1cad9b5b01d79a620870dc.jpg',
+    'https://i.pinimg.com/originals/d9/e1/30/d9e1307a5fbbeb2a267562eab8abc063.jpg',
+    'https://i.pinimg.com/originals/6a/4d/11/6a4d11cb5bab1466cf1ccb8c6c4f9eb6.jpg',
+    'https://i.pinimg.com/originals/f3/b7/37/f3b7376c2a574b8619c197bce72d1f63.png',
+    'https://i.pinimg.com/originals/93/0a/5f/930a5fc6f8f6e64e87ac2cc30b8430ac.jpg',
+    'https://i.pinimg.com/originals/30/78/75/307875a9132c6e704eec94bc31fd4f71.jpg',
+    'https://i.pinimg.com/originals/12/fa/7d/12fa7df7ba74ac00d846d8d490f7c8a4.jpg',
+    'https://i.pinimg.com/originals/68/f6/f3/68f6f37335624f89cda17ab928f51138.jpg',
+    'https://i.pinimg.com/originals/de/f6/e7/def6e7ce26ad6a1096e8b1ef395a1904.jpg',
+    'https://i.pinimg.com/originals/cc/17/be/cc17be94cd520baa4722e0ca2329c2e9.jpg',
+    'https://i.pinimg.com/originals/b3/c5/d1/b3c5d1076a9a48c075c8a92987b03bf3.jpg',
+    'https://i.pinimg.com/originals/2c/e6/02/2ce6025d9d1736cf3e67db1fd2bdaf35.jpg',
+    'https://i.pinimg.com/originals/31/07/53/310753699042b254fdfa0472a2675158.jpg',
+    'https://i.pinimg.com/originals/6b/87/9c/6b879cc29b5df23941dab4f4aafabcbd.jpg',
+    'https://i.pinimg.com/originals/52/90/0b/52900bab0f969d9d68207f6ad8510882.jpg',
+    'https://i.pinimg.com/originals/25/7e/db/257edb1b91a127bcf91cc2ea6b29edaf.jpg',
+    'https://i.pinimg.com/originals/63/6b/7b/636b7bd0e1df03f0bf72c494cedd6f07.png',
+    'https://i.pinimg.com/originals/8d/ad/58/8dad58f3b258b3d7f2e913cb4561d99f.jpg',
+    'https://i.pinimg.com/originals/8d/04/9a/8d049a1e6951491b24ea4c364f2459bc.jpg',
+    'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
+    'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg'
+]
+
+global.thumbdoc = process.env.THUMB
+
+global.fsizedoc = '99999999999999' // default 10TB
+global.fpagedoc = '999'
+
+global.wait = 'Please Wait Toxic Alexa Is Working On It'
+global.rwait = 'Please Wait'
+global.dmoji = ''
+global.done = 'Done '
+global.error = 'Error Please Report To TurboMods'
+global.xmoji = '🔖'
+
+global.multiplier = 69
+global.maxwarn = '3'
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+  unwatchFile(file)
+  console.log(chalk.redBright("Update 'config.js'"))
+  import(`${file}?update=${Date.now()}`)
+})
