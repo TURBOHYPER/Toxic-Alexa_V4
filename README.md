@@ -15,7 +15,7 @@
 2. Now Deploy
    
    
-     <a href='https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
  
  ## 🤩 Support
