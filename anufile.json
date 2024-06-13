@@ -1,0 +1,13 @@
+{
+    "name": "Toxic Alexa V4",
+    "version": "4.0",
+    "description": "Multi device whatsapp bot",
+    ],
+    "homepage": "https://github.com/TURBOHYPER/Toxic-Alexa_V4",
+    "author": {
+        "name": "TURBOMODS"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa_V4.git"
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Toxic-Alexa_V4",
+  "description": " An Whatsapp Chatbot Made By TurboMods.",
+  "keywords": [
+    "whatsapp Ai"
+  ],
+  "repository": "https://github.com/TURBOHYPER/Toxic-Alexa_V4",
+  "stack": "container",
+  "env": {
+    "OWNERS": {
+      "description": "owner numbers",
+      "required": true,
+      "value": "916380260672;TurboMods;918270026275;TurboMods"
+    },
+    "BOTNAME": {
+      "description": "Give your BOT a name",
+      "required": true,
+      "value": "Toxic Alexa"
+    },
+    "PACKNAME": {
+      "description": "Give your Packname for sticker",
+      "required": true,
+      "value": "Toxic Alexa"
+    },
+    "AUTHOR": {
+      "description": "Give your Author name for sticker",
+      "required": true,
+      "value": "TurboMods"
+    },
+    "MENUVID": {
+      "description": "Give your Video Url For Menu",
+      "required": true,
+      "value": "['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']"
+    },
+    "IGFG": {
+      "description": "Give your Instagram",
+      "required": true,
+      "value": "https://instagram.com/toxic_turbo777"
+    },
+    "FGYT": {
+      "description": "Give your Youtube Channel Link",
+      "required": true,
+      "value": "https://youtube.com/@TurboMods"
+    },
+    "FGPYP": {
+      "description": "Give your Website Link",
+      "required": true,
+      "value": "https://youtu.be/vO4h2gsx0kQ?si=-BpfcOztSYhpJGXx"
+    },
+    "FGLOG": {
+      "description": "Give your logo url",
+      "required": true,
+      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
+    },
+    "THUMB": {
+      "description": "Give your Bot Logo Url",
+      "required": true,
+      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
+    },
+    "DATABASE_URL": {
+      "description": "your mongodb database url",
+      "required": false,
+      "value": ""
+    },
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": true,
+      "value": ""
+    },
+    "MODE": {
+      "description": "mode public or private",
+      "required": true,
+      "value": "public"
+    },
+    "PREFIX": {
+      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "required": false,
+      "value": ""
+    },
+     "HKEY": {
+      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "required": true,
+      "value": ""
+    },
+     "HAPP": {
+      "description": "Put the Heroku app name, same as above entered",
+      "required": true,
+      "value": ""
+    },
+    "statusview": {
+      "description": "make it true if you want bot to view status",
+      "required": false,
+      "value": ""
+    },
+    "autoRead": {
+      "description": "make it true if you want bot to read messages",
+      "required": false,
+      "value": ""
+    },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": false,
+      "value": "false"
+    },
+     "REMOVEBG_KEY": {
+      "description": "your RemoveBg api key",
+      "required": false,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
