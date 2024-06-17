@@ -56,6 +56,11 @@
       "required": true,
       "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg"
     },
+    "OMENTION": {
+      "description": "Give Owner Number",
+      "required": true,
+      "value": "@918270026275"
+    },
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
