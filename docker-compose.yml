@@ -14,6 +14,18 @@ services:
       SESSION_ID: ${SESSION_ID}
       REMOVEBG_KEY: ${REMOVEBG_KEY}
       PREFIX: ${PREFIX}
+      OWNERS: ${OWNERS}
+      OMENTION: ${OMENTION}
+      BOTNAME: ${BOTNAME}
+      PACKNAME: ${PACKNAME}
+      AUTHOR: ${AUTHOR}
+      MENUVID: ${MENUVID}
+      IGFG: ${IGFG}
+      FGYT: ${FGYT}
+      FGPYP: ${FGPYP}
+      FGLOG: ${FGLOG}
+      THUMB: ${THUMB}
+      OWNERIMG: ${OWNERIMG}
   redis:
     image: redis
 volumes:

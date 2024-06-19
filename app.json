@@ -61,6 +61,11 @@
       "required": true,
       "value": "@918270026275"
     },
+    "OWNERIMG": {
+      "description": "Give Your Owner Image",
+      "required": true,
+      "value": "https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg""
+    },
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
