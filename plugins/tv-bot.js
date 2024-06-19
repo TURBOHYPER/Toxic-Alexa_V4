@@ -1,1 +1,54 @@
-const _0xbe94a6=_0x1d02;(function(_0x2f57df,_0x5b35c4){const _0x469400=_0x1d02,_0x3a5729=_0x2f57df();while(!![]){try{const _0x580e07=parseInt(_0x469400(0x1ca))/0x1+-parseInt(_0x469400(0x1cc))/0x2+-parseInt(_0x469400(0x1ce))/0x3*(-parseInt(_0x469400(0x1c6))/0x4)+-parseInt(_0x469400(0x1c0))/0x5+-parseInt(_0x469400(0x1c2))/0x6+-parseInt(_0x469400(0x1c5))/0x7+parseInt(_0x469400(0x1d0))/0x8;if(_0x580e07===_0x5b35c4)break;else _0x3a5729['push'](_0x3a5729['shift']());}catch(_0xf71463){_0x3a5729['push'](_0x3a5729['shift']());}}}(_0x30b2,0x586d4));import _0x141a76 from'node-fetch';let handler=_0x1df7ed=>_0x1df7ed;function _0x30b2(){const _0x15ee77=['157346rwJpbp','error','10506qEGMgg','all','7815960LtHPQE','./Assets/mp3/','buffer','floor','TurboMods','The\x20Greatest\x20Developer\x20🗿💫','T11','split','toLowerCase','1384110uByOMf','getRandom','1666134suXkvX','.mp3','find','4193224YNOEpX','244unRIMw','random','sender','chat','403795OwKhBA','ToxicAlexa'];_0x30b2=function(){return _0x15ee77;};return _0x30b2();}handler[_0xbe94a6(0x1cf)]=async function(_0x54df23){const _0x330792=_0xbe94a6;try{const _0x21184f='@916380260672',_0x661f27=[''+_0x21184f],_0x302da7=_0x54df23['text'][_0x330792(0x1bf)](),_0xb47e5b=_0x661f27[_0x330792(0x1c4)](_0x2f7c7c=>_0x302da7['includes'](_0x2f7c7c[_0x330792(0x1bf)]()));if(_0xb47e5b){let _0x32bea1='@'+_0x54df23[_0x330792(0x1c8)][_0x330792(0x1d7)]('@s.whatsapp.net')[0x0],_0x57a979=_0x330792(0x1d1)+pickRandom(['T1','T2','T3','T4','T5','T6','T7','T8','T9','T10',_0x330792(0x1d6)])+_0x330792(0x1c3),_0x3a098e={'audio':{'url':_0x57a979},'mimetype':'audio/mpeg','ptt':!![],'waveform':[0x64,0x0,0x64,0x0,0x64,0x0,0x64],'fileName':_0x330792(0x1cb),'contextInfo':{'externalAdReply':{'title':_0x330792(0x1d4),'body':_0x330792(0x1d5),'thumbnail':await(await _0x141a76(ownerimg[_0x330792(0x1c1)]()))[_0x330792(0x1d2)](),'sourceUrl':null,'mediaUrl':alexamedia['getRandom'](),'mediaType':0x1,'showAdAttribution':!![],'renderLargerThumbnail':![]}}};await conn['sendMessage'](_0x54df23[_0x330792(0x1c9)],_0x3a098e,{'quoted':_0x54df23});}}catch(_0x32aea6){console[_0x330792(0x1cd)]('Error\x20handling\x20message:',_0x32aea6);}};export default handler;function _0x1d02(_0x1c6e9c,_0x16ed9d){const _0x30b2bb=_0x30b2();return _0x1d02=function(_0x1d02d6,_0x41ac42){_0x1d02d6=_0x1d02d6-0x1bf;let _0xd03f20=_0x30b2bb[_0x1d02d6];return _0xd03f20;},_0x1d02(_0x1c6e9c,_0x16ed9d);}function pickRandom(_0x57d8ff){const _0x59bfa2=_0xbe94a6;return _0x57d8ff[Math[_0x59bfa2(0x1d3)](Math[_0x59bfa2(0x1c7)]()*_0x57d8ff['length'])];}
+import fetch from 'node-fetch';
+
+let handler = m => m;
+
+handler.all = async function (m) {
+  try {
+    // The list of commands
+    const ommention = '@916380260672'
+    const commands = [`${ommention}`];
+    
+    // Convert the message to lowercase to make it case-insensitive
+    const messageText = m.text.toLowerCase();
+
+    // Check if the message contains any of the commands
+    const matchedCommand = commands.find(cmd => messageText.includes(cmd.toLowerCase()));
+
+    if (matchedCommand) {
+      let taguser = '@' + m.sender.split("@s.whatsapp.net")[0];
+      let tv = `./Assets/mp3/${pickRandom(["T1", "T2", "T3", "T4", "T5", "T6", "T7", "T8", "T9", "T10", "T11"])}.mp3`;
+      let doc = {
+        audio: {
+          url: tv,
+        },
+        mimetype: 'audio/mpeg',
+        ptt: true,
+        waveform: [100, 0, 100, 0, 100, 0, 100],
+        fileName: 'ToxicAlexa',
+        contextInfo: {
+          externalAdReply: {
+            title: 'TurboMods',
+            body: 'The Greatest Developer 🗿💫',
+            thumbnail: await (await fetch(ownerimg2.getRandom())).buffer(),
+            sourceUrl: null,
+            mediaUrl: alexamedia.getRandom(),
+            mediaType: 1,
+            showAdAttribution: true,
+            renderLargerThumbnail: false,
+          },
+        },
+      };
+
+      await conn.sendMessage(m.chat, doc, { quoted: m });
+    }
+  } catch (error) {
+    console.error('Error handling message:', error);
+  }
+};
+
+export default handler;
+
+// Helper function to pick a random item from an array
+function pickRandom(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
