@@ -22,7 +22,7 @@ services:
       - key: AUTHOR
         value: TurboMods
       - key: OMENTION
-        value: @918270026275
+        value: '@918270026275'
       - key: MENUVID
         value: "['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']"
       - key: THUMB
