@@ -15,15 +15,7 @@ services:
         value: public
         - key: PREFIX
         value:
-        - key: statusview
-        value: false
-        - key: autoRead
-        value: false
-        - key: antidelete
-        value: false
-        - key: REMOVEBG_KEY
-        value: null
-      - key: BOTNAME
+        - key: BOTNAME
         value: Toxic Alexa
         - key: PACKNAME
         value: Toxic Alexa
