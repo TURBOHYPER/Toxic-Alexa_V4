@@ -10,30 +10,30 @@ services:
     autoDeploy: false
     envVars:
       - key: SESSION_ID
-        value: enter your session id
-        - key: MODE
+        sync: false
+      - key: MODE
         value: public
-        - key: PREFIX
-        value: .
-        - key: BOTNAME
+      - key: PREFIX
+        value: ''
+      - key: BOTNAME
         value: Toxic Alexa
-        - key: PACKNAME
+      - key: PACKNAME
         value: Toxic Alexa
-        - key: AUTHOR
+      - key: AUTHOR
         value: TurboMods
-        - key: OMENTION
+      - key: OMENTION
         value: @918270026275
-        - key: MENUVID
-        value: ['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']
-        - key: THUMB
+      - key: MENUVID
+        value: "['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']"
+      - key: THUMB
         value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
-        - key: FGYT
+      - key: FGYT
         value: https://youtube.com/@TurboMods
-        - key: FGPYP
+      - key: FGPYP
         value: https://github.com/TURBOHYPER/Toxic-Alexa_V4
-        - key: FGLOG
+      - key: FGLOG
         value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
-        - key: IGFG
+      - key: IGFG
         value: https://instagram.com/toxic_turbo777
-        - key: OWNERIMG
+      - key: OWNERIMG
         value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
