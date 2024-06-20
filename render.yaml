@@ -10,7 +10,7 @@ services:
     autoDeploy: false
     envVars:
       - key: SESSION_ID
-        sync: false
+        value: enter your session id
         - key: MODE
         value: public
         - key: PREFIX
