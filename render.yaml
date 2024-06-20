@@ -1,6 +1,47 @@
 services:
   - type: web
     name: Toxic-Alexa_V4
-    env: docker
-    region: Frankfurt
+    env: node
+    branch: main
+    repo: https://github.com/TURBOHYPER/Toxic-Alexa_V4.git
+    buildCommand: npm install
+    startCommand: npm start
     plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+        - key: MODE
+        value: public
+        - key: PREFIX
+        value:
+        - key: statusview
+        value: false
+        - key: autoRead
+        value: false
+        - key: antidelete
+        value: false
+        - key: REMOVEBG_KEY
+        value: null
+      - key: BOTNAME
+        value: Toxic Alexa
+        - key: PACKNAME
+        value: Toxic Alexa
+        - key: .AUTHOR
+        value: TurboMods
+        - key: OMENTION
+        value: @918270026275
+        - key: MENUVID
+        value: ['https://i.imgur.com/wlqAQfX.mp4', 'https://i.imgur.com/hWZYX4J.mp4', 'https://i.imgur.com/foHz91N.mp4', 'https://i.imgur.com/dc64HD3.mp4', 'https://i.imgur.com/N8kx2ju.mp4', 'https://i.imgur.com/kz9gIHr.mp4']
+        - key: THUMB
+        value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
+        - key: FGYT
+        value: https://youtube.com/@TurboMods
+        - key: FGPYP
+        value: https://github.com/TURBOHYPER/Toxic-Alexa_V4
+        - key: FGLOG
+        value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
+        - key: IGFG
+        value: https://instagram.com/toxic_turbo777
+        - key: OWNERIMG
+        value: https://telegra.ph/file/754dfa68ef75ae44fbfc5.jpg
