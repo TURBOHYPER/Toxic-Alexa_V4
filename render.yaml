@@ -27,7 +27,7 @@ services:
         value: Toxic Alexa
         - key: PACKNAME
         value: Toxic Alexa
-        - key: .AUTHOR
+        - key: AUTHOR
         value: TurboMods
         - key: OMENTION
         value: @918270026275
