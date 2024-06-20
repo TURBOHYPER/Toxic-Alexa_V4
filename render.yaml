@@ -14,7 +14,7 @@ services:
         - key: MODE
         value: public
         - key: PREFIX
-        value:
+        value: .
         - key: BOTNAME
         value: Toxic Alexa
         - key: PACKNAME
