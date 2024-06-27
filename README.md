@@ -17,7 +17,7 @@
    
      <a href='https://toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-     <a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='RENDER' src='https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='RENDER' src='https://img.shields.io/badge/RENDER-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
  
  ## 🤩 Support
