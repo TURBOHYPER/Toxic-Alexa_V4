@@ -13,11 +13,14 @@
 
 
 2. Now Deploy
-   
-   
-     <a href='https://toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Deploy Now-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-     <a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='RENDER' src='https://img.shields.io/badge/RENDER-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='HEROKU' src='https://img.shields.io/badge/-HEROKU-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+     <a href='https://toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='KOYEB' src='https://img.shields.io/badge/-KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+     <a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='RENDER' src='https://img.shields.io/badge/-RENDER-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+
+     <a href='https://railway.app/template/T2aOGe?referralCode=vxrYUu' target="_blank"><img alt='RAILWAY' src='https://img.shields.io/badge/-RAILWAY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
  
  ## 🤩 Support
