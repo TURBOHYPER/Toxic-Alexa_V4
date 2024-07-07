@@ -16,7 +16,7 @@
 
      <a href='https://toxic-alexa-deploy.vercel.app' target="_blank"><img alt='HEROKU' src='https://img.shields.io/badge/-HEROKU-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-     <a href='https://toxicalexadeploy.turboanime.xyz' target="_blank"><img alt='KOYEB' src='https://img.shields.io/badge/-KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+     <a href='https://toxic-alexa-deploy.vercel.app' target="_blank"><img alt='KOYEB' src='https://img.shields.io/badge/-KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
      <a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TURBOHYPER/Toxic-Alexa_V4' target="_blank"><img alt='RENDER' src='https://img.shields.io/badge/-RENDER-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
